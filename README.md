@@ -2,14 +2,14 @@
 
 **Platform Engineer | Cloud Architect | AI Developer Experience**
 
-My focus areas are:
+---
 
-- ☁️ AWS / Azure Cloud Architecture
-- 🏗 Platform Engineering
-- 📦 Infrastructure as Code
-- 🚀 CI/CD Automation
-- 🤖 AI-assisted Development
-- 🏢 Multi-tenant SaaS Platforms
+## Focus
+
+- ☁️ Cloud Architecture (AWS / Azure)
+- 🏗 Platform Engineering & Developer Experience
+- 📦 Infrastructure as Code & CI/CD Automation
+- 🤖 AI-assisted Development Workflow
 
 ---
 
@@ -20,8 +20,6 @@ My focus areas are:
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kawasaki031677&show_icons=true&theme=default)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kawasaki031677&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawasaki031677&layout=compact&theme=default)
 
 ---

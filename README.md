@@ -1,6 +1,6 @@
 # Hi there 👋 I'm kawasaki031677
 
-**Platform Engineer | Cloud Architect | AI Developer Experience**
+**Cloud Architect | Platform Engineer |  AI-assisted Development**
 
 ---
 

@@ -20,12 +20,8 @@ My focus areas are:
 ---
 
 ## GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=kawasaki031677&show_icons=true&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kawasaki031677&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawasaki031677&layout=compact&theme=default)
 
 ---

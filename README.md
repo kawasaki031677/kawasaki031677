@@ -20,6 +20,8 @@
 ---
 
 ## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=kawasaki031677&theme=default)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kawasaki031677&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=kawasaki031677&rank_icon=github&include_all_commits=true)   
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kawasaki031677&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=kawasaki031677&layout=compact&langs_count=6)
 
 ---

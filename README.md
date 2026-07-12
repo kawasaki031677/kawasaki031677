@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,ansible,terraform,linux,windows,postgres,githubactions,python,react,nodejs)
+![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,ansible,terraform,linux,windows,postgres,dynamodb,git,githubactions,python,react,nodejs,bash)
 
 ---
 

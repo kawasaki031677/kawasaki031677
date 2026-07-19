@@ -1,4 +1,4 @@
-# Hi there 👋 I'm kawasaki031677
+# Hi there ⚽ I'm kawasaki031677
 
 **Cloud Architect | Platform Engineer |  AI-assisted Development**
 

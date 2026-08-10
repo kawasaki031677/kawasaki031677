@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,ansible,terraform,linux,windows,postgres,dynamodb,git,githubactions,python,react,nodejs,bash)
+[![Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,vmware,docker,ansible,terraform,linux,windows,postgresql,git,githubactions,python,react,nodejs,claudeai)](https://github.com/syvixor/skills-icons)
 
 ---
 

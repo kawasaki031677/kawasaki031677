@@ -8,8 +8,9 @@
 
 - ☁️ Cloud Architecture (AWS / Azure)
 - 🏗 Platform Engineering & Developer Experience
-- 📦 Infrastructure as Code & CI/CD Automation
+- 💻 Software Development (Python / React)
 - 🤖 AI-assisted Development Workflow
+- 📦 Infrastructure as Code & CI/CD Automation
 
 ---
 

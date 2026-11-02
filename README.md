@@ -3,7 +3,7 @@
 **Cloud Architect | Platform Engineer |  AI-assisted Development**
 <p>
   <a href="https://qiita.com/kawasaki031677"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
-  <a href="https://dev.to/kawasaki031677"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  <a href="https://dev.to/kawasaki031677"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV" /></a>
 </p>
 
 ---
